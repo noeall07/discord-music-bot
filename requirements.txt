@@ -3,5 +3,4 @@ spotipy
 yt-dlp
 asyncio
 python-dotenv
-re
 PyNaCl
