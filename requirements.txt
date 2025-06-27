@@ -1,0 +1,8 @@
+discord.py
+spotipy
+yt-dlp
+asyncio
+os
+python-dotenv
+re
+PyNaCl
